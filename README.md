@@ -1,2 +1,43 @@
-# -Store-Finance-Manager-
-To help you track income, expenses, profits, and manage sales reports, stock costs, and summaries — all through an easy-to-use GUI built with Tkinter or PyQt.
+# 🧾 Store Finance Manager – Python GUI App
+
+A desktop application built with Python to **manage the financial records of a small store**, including **income, expenses, sales**, and **profit tracking**, with a clean and simple **GUI interface**.
+
+---
+
+## ✨ Features
+
+- 📥 Add income, expenses, and custom notes
+- 📈 Live dashboard with total sales, expenses, and profit
+- 📅 Filter records by date (daily, weekly, monthly)
+- 🛒 Optional inventory tracking (item quantity & value)
+- 🧮 Built-in calculator for quick cash calculations
+- 🔐 Optional password protection for secure access
+- 📤 Export reports as CSV, Excel, or PDF
+- 📊 View transaction history in a table format
+
+---
+
+## 🖥️ GUI Preview
+
+| Page        | Description                     |
+|-------------|---------------------------------|
+| Dashboard   | Live view of your store profit  |
+| Transactions| Add/edit/delete records         |
+| Reports     | Export CSV, Excel, or PDF       |
+| Inventory   | (Optional) Stock overview       |
+
+---
+
+## 🧰 Tech Stack
+
+| Component       | Used Library      |
+|-----------------|-------------------|
+| GUI             | `Tkinter` / `ttkbootstrap` |
+| Database        | `SQLite3`         |
+| Data Handling   | `pandas`          |
+| File Export     | `openpyxl`, `csv`, `fpdf` |
+| Styling         | `ttk`, `customtkinter` (optional) |
+
+---
+
+
