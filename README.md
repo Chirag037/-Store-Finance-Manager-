@@ -3,7 +3,7 @@
 A desktop application built with Python to **manage the financial records of a small store**, including **income, expenses, sales**, and **profit tracking**, with a clean and simple **GUI interface**.
 
 ---
-## ✨ Features
+## ✨ Features  
 
 - 📥 Add income, expenses, and custom notes
 - 📈 Live dashboard with total sales, expenses, and profit
